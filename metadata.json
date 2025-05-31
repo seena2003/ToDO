@@ -1,0 +1,5 @@
+{
+  "name": "Simple Task Board",
+  "description": "A simple task board application to manage tasks with different statuses and priorities. Users can create, edit, delete, and move tasks between columns representing 'To Do', 'In Progress', and 'Done'.",
+  "requestFramePermissions": []
+}
